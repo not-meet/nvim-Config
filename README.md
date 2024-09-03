@@ -9,7 +9,7 @@ Welcome to my **Neovim** setup! This repository contains my personal configurati
 │   ├── config/         # 🛠️ Custom configurations for LazyVim
 │   └── plugins/         # 📁 Other custom Lua files such as keymaps , alpha.lua etc
 
-### 🚀 Getting Started
+🚀 Getting Started
 To get started with this configuration:
 
 Clone the Repository:
